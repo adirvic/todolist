@@ -10,6 +10,13 @@ Caso se sinta a vontade a usar o postman, esta na pasta _resources/postman_
 importe no postman e usufrua das colections
 
 
+#### Pendencias
+* Concluir o Healtcheck
+* Inicar o gerenciamento de Logs
+* iniciar Metrics
+* Unit Test
+* Formatar a data e hora (remover os milisegundos)
+
 Se quiser executar por linha de comando
 
 ## Cadastro
